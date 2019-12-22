@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-transition/tags/1.0.0,androidx-transition,50f69d5d0c25001a1746b9f2272c455f;https://github.com/dandar3/android-androidx-transition;https://github.com/dandar3/android-androidx-transition;branches;tags;trunk;true;f2463529-4d6d-6176-2104-ce57b7db7bff;https://github.com/dandar3/android-androidx-transition;;false;;;0"/>
+</provider>
+</psf>
